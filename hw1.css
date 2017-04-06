@@ -1,0 +1,60 @@
+
+div.fixed {
+  position: fixed;
+  bottom: 50%;
+  right: 10px;
+  font-size: 20px;
+}
+
+
+article{
+  width: 75%;
+}
+
+ul{
+  line-height: 26px;
+}
+
+p{
+  line-height: 27px;
+}
+
+body{
+  display: flex;
+}
+
+h1{
+  color:black;
+  text-align: center;
+  font-weight: bold;
+}
+
+aside{
+  margin: 100px 10px;
+  width: 19%;
+  height: 300px;
+  background-color: rgb(150,150,150);
+  border-radius: 10px;
+}
+
+#pic{
+  width:200px;
+  margin: 10px 15px auto 15px;
+}
+#topfont{
+  font-size: 15px;
+  background-color: lightblue;
+}
+
+
+.small{
+	font-size: small;
+}
+
+.medium{
+	font-size: medium;
+}
+
+.large{
+	font-size: large;
+}
